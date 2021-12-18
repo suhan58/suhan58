@@ -23,12 +23,11 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Systems Engineer Specialist at Infosys
+### I am a Backend Developer.
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning Nodejs.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
@@ -52,17 +51,6 @@
 <br>
 <br>
 
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=damodar-bhattarai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Damodar's Github Stats">
-</p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damodar-bhattarai&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details> -->
 
 
 ### :zap: Github Stats
@@ -90,10 +78,7 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
-<!--[website]: -->
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/sssssssssshhhhhhhhhhhhhhhhhh/
-[linkedin]: https://www.linkedin.com/in/bhattaraidamodar/
+
 -----
 Credits: [SumanthTalluri](https://github.com/Sumanth-Talluri)
 
