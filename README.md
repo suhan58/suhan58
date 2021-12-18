@@ -44,7 +44,7 @@
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" />
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Postman" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3fKS3PeoejbwzKVXK9qq35rqhzmSpk0nsxeHXvbqJ_oVOuRpypWZl8DKDCOJPO4N29uo&usqp=CAU" />
+<img align="left" alt="Postman" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQHVAKk9F6iM2_JNGAAPV1mSBQB1o525qiDzN7A9SYwA29DVy2WFmWakzvdOMcndalaA&usqp=CAU" />
 <br>
 <br>
 <br>
