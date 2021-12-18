@@ -78,6 +78,5 @@
 
 
 -----
-Credits: [SumanthTalluri](https://github.com/Sumanth-Talluri)
 
 Last Edited on: 11/02/2021
