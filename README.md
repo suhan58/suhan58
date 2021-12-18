@@ -42,7 +42,7 @@
 <img align="left" alt="PostgreSQL" width="35px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
 <img align="left" alt="NodeJs" width="35px" src="https://nodejs.org/static/images/logo.svg" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://tdftips.com/wp-content/uploads/2021/04/icono-de-github.jpg" />
+<img align="left" alt="GitHub" width="35px" src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" />
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br>
 <br>
