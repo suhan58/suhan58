@@ -61,8 +61,8 @@
 
 
 <!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=damodar-bhattarai&show_icons=true&hide_border=true&theme=dark)
-![Damodar's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=damodar-bhattarai&show_icons=true&hide_border=true")-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suhan_rayamajhi&show_icons=true&hide_border=true&theme=dark)
+![Suhan's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=damodar-bhattarai&show_icons=true&hide_border=true")-->
 
 <br>
 
