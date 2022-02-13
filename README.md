@@ -38,13 +38,13 @@
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PostgreSQL" width="35px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
+ <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<!-- <img align="left" alt="PostgreSQL" width="35px" src="https://www.postgresql.org/media/img/about/press/elephant.png" /> -->
 <img align="left" alt="NodeJs" width="35px" src="https://nodejs.org/static/images/logo.svg" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" />
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Postman" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQHVAKk9F6iM2_JNGAAPV1mSBQB1o525qiDzN7A9SYwA29DVy2WFmWakzvdOMcndalaA&usqp=CAU" />
+<!-- <img align="left" alt="Postman" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQHVAKk9F6iM2_JNGAAPV1mSBQB1o525qiDzN7A9SYwA29DVy2WFmWakzvdOMcndalaA&usqp=CAU" /> -->
 <br>
 <br>
 <br>
